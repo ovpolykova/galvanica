@@ -1,0 +1,1086 @@
+
+.navb1 {
+	background: rgb(60,60,60);
+	background: linear-gradient(90deg, rgba(60,60,60,1) 22%, rgba(144,144,144,1) 77%, rgba(255,255,255,1) 100%);
+	/*position: absolute;*/
+	width: 100%;
+	height: auto;
+	left: 0px;
+	top: 0px;
+	padding-top: 26px;
+	
+	}
+.navb3 {
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 36px;
+	line-height: 44px;
+	display: flex;
+	align-items: center;
+	letter-spacing: 0.04em;
+	}	
+#navb {
+	background-image: url(img/Rectangle61.png);
+	background: rgb(60,60,60);
+	background: linear-gradient(90deg, rgba(60,60,60,1) 22%, rgba(144,144,144,1) 77%, rgba(255,255,255,0) 100%);
+	background-size: cover;
+	
+	padding-top:10px;
+	width: 100%;
+	left: 0;
+	right: 0;
+	word-spacing: 15px;
+	left: 0;
+}
+
+#im {
+margin-bottom: 50px;
+margin-right: -67px;
+}
+
+#soyz {
+	color: #1F2122;
+	font-family: Lato;
+	font-size: 36px;
+	align-items: center;
+	position: absolute;
+	line-height: 30px;
+	width: 100%;
+}
+#men {
+	margin-left: 6em;
+	color: #1F2122;
+	word-spacing: 15px;
+	font-family: Lato;
+	font-size: 20px;
+	align-items: center;
+}
+#content {
+	left: 0;
+	right: 0;
+	width: 100%;
+}
+#text1 {
+	position: absolute;
+width: 709px;
+height: 98px;
+left: 180px;
+top: 150px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 49px;
+
+/* wh */
+
+color: #FFFFFF;
+}
+
+#but1 {
+	/* Group 31 */
+position: absolute;
+width: 264px;
+height: 50px;
+left: 175px;
+top: 300.5px;
+/* Rectangle 83 */
+
+/* bl */
+
+background: #AFC0D7;
+border-radius: 5px;
+}
+#text2 {
+	/* Что такое СОЮЗ? */
+margin-left: 130px;
+margin-top: 50px;
+/* Mont34 */
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 34px;
+line-height: 41px;
+display: flex;
+align-items: center;
+
+/* bl */
+
+color: #1F2122;
+}
+#text3 {
+	/* Союз мастеров гальваники —  это объединение творческих людей с целью общения, обмена опытом и обучения в области прикладной гальванопластики. */
+
+
+position: absolute;
+margin-left: 130px;
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 125%;
+/* or 22px */
+
+
+/* bl */
+
+color: #1F2122;
+opacity: 0.5;
+}
+#text4 {
+	/* ПОДРОБНЕЕ */
+
+
+position: absolute;
+width: 197px;
+top:240px;
+left: 140px;
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+text-decoration-line: underline;
+
+/* bl */
+
+color: #1F2122;
+}
+#Rectangle_167 {
+	/* Rectangle 152 */
+position: absolute;
+width: 770px;
+height: 440px;
+left: 601px;
+top: 727px;
+
+/* grey */
+
+opacity: 0.7;
+}
+
+#text5 {
+	/* Создание бизнеса с небольшими вложениями и скорым результатом */
+position: absolute;
+width: 445px;
+height: 62px;
+left: 170px;
+top: 50px;
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 125%;
+/* or 22px */
+
+display: flex;
+align-items: center;
+letter-spacing: 0.04em;
+
+/* wh */
+
+color: #FFFFFF;
+}
+#text6 {
+	/* Создание бизнеса с небольшими вложениями и скорым результатом */
+position: absolute;
+width: 445px;
+height: 62px;
+left: 170px;
+top: 125px;
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 125%;
+/* or 22px */
+
+display: flex;
+align-items: center;
+letter-spacing: 0.04em;
+
+/* wh */
+
+color: #FFFFFF;
+}
+#text7 {
+	/* Создание бизнеса с небольшими вложениями и скорым результатом */
+position: absolute;
+width: 445px;
+height: 62px;
+left: 170px;
+top: 220px;
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 125%;
+/* or 22px */
+
+display: flex;
+align-items: center;
+letter-spacing: 0.04em;
+
+/* wh */
+
+color: #FFFFFF;
+}
+
+#cont {
+	background: linear-gradient(90deg, rgba(31, 33, 34, 0.45) 0%, rgba(22, 22, 22, 0.279078) 99.99%, rgba(255, 255, 255, 0) 100%);
+	background: #575C63;
+	
+}
+
+#text8 {
+	font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 43px;
+display: flex;
+align-items: center;
+letter-spacing: 0.04em;
+
+/* wh */
+
+color: #FFFFFF;
+}
+
+#text9 {
+	/* 1 */
+
+width: 37px;
+height: 60px;
+margin-left: 50px;
+margin-top: -100px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 60px;
+line-height: 73px;
+display: flex;
+align-items: center;
+text-align: center;
+
+/* bl */
+
+color: #AFC0D7;
+}
+
+#text10 {
+	/* Стань */
+
+width: 174px;
+height: 21px;
+margin-left: 80px;
+margin-top: -75px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+letter-spacing: 0.04em;
+
+/* wh */
+
+color: #FFFFFF;
+}
+#text11 {
+/* «НОВИЧКОМ» */
+
+width: 174px;
+height: 22px;
+margin-left: 80px;
+margin-top: -8px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+
+/* wh */
+
+color: #FFFFFF;}
+
+#text12 {
+	/* Зарегистрируйтесь на платформе. Получите бесплатное видео, возможность приобретать сопутствующие товары, а также доступ к закрытому форуму среди «новичков» */
+
+width: 270px;
+margin-left: 80px;
+margin-top: px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 120%;
+/* or 19px */
+
+letter-spacing: 0.04em;
+text-transform: uppercase;
+
+/* wh */
+
+color: #FFFFFF;
+}
+#but2 {
+	width: 204px;
+height: 50px;
+margin-left: 80px;
+margin-top: 20px;
+
+	background: #AFC0D7;
+border-radius: 5px;
+}
+
+#but3 {
+	width: 204px;
+height: 50px;
+margin-left: 80px;
+margin-top: 40px;
+
+	background: #AFC0D7;
+border-radius: 5px;
+}
+#but4 {
+	width: 204px;
+height: 50px;
+margin-left: 80px;
+margin-top: 40px;
+
+	background: #AFC0D7;
+border-radius: 5px;
+}
+#kurs {
+	/* Популярные курсы */
+width: 403px;
+height: 30px;
+left: 180px;
+padding-top: 100px;
+padding-bottom: 50px;
+
+/* Mont34 */
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 34px;
+line-height: 41px;
+display: flex;
+align-items: center;
+
+/* bl */
+
+color: #1F2122;
+}
+
+#kurs2 {
+	/* Популярные курсы */
+width: 403px;
+height: 30px;
+left: 180px;
+
+/* Mont34 */
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 34px;
+line-height: 41px;
+display: flex;
+align-items: center;
+
+/* bl */
+
+color: #1F2122;
+}
+#i0 {
+	/* Rectangle 100 */
+	width: 328px;
+	height: 389.92px;	
+	background: linear-gradient(180deg, rgba(0, 0, 0, 0.55) 0.68%, rgba(255, 255, 255, 0) 97.41%);
+border: 1px solid rgba(87, 92, 99, 0.4);
+box-sizing: border-box;
+border-radius: 5px;
+} 
+#Rectangle_165 {
+	/* Rectangle 165 */
+
+width: 80px;
+height: 34px;
+margin-top: 25px;
+
+/* grey */
+
+background: #575C63;
+border-radius: 5px;
+}
+#like {
+	margin-left: -40px;
+}
+#l15 {
+	margin-top: -22.5px;
+	margin-left: 50px;
+	font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+
+/* wh */
+
+color: #FFFFFF;
+}
+#korz {
+	
+/* bl */
+width: 47px;
+height: 47px;	
+margin-top: -45px;
+margin-left: 240px;
+background: #AFC0D7;
+box-shadow: 0px 0px 4px rgba(174, 174, 174, 0.25);
+border-radius: 50px;
+}
+#kk {
+	width: 30px;
+height: 30px;
+margin-left: 3px;
+margin-top: 10px;
+}
+#Rectangle_83 {
+	/* Rectangle 83 */
+
+width: 328px;
+height: 86.12px;
+margin-left: -16px;
+margin-top: 220px;
+
+/* llblue */
+
+background: #F0F1F3;
+border-radius: 0px;
+}
+#Rectangle_83_1 {
+	/* Rectangle 83 */
+margin-left: -15px;
+width: 100%px;
+margin-right: -15px;
+height: 86.12px;
+margin-top: 180px;
+
+/* llblue */
+
+background: #F0F1F3;
+border-radius: 0px;
+}
+#Rectangle_83_1_1 {
+	/* Rectangle 83 */
+margin-left: -15px;
+width: 100%px;
+margin-right: -15px;
+height: 86.12px;
+margin-top: 180px;
+
+/* llblue */
+
+background: #F0F1F3;
+border-radius: 0px;
+}
+#pobed {
+padding-top: 20px;
+padding-left: 10px;
+margin-left: -10px;
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+display: flex;
+align-items: center;
+letter-spacing: 0.04em;
+
+/* grey */
+
+color: #575C63;
+}
+#sereb {
+width: 267.47px;
+height: 55.12px;
+padding-top: 20px;
+margin-left: 50px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 25px;
+/* or 125% */
+
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+/* wh */
+
+color: rgb(60,60,60)	;
+}
+#kurs1 {
+	margin-top: 2em;
+	margin-left: 60em;
+	font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.04em;
+text-decoration-line: underline;
+text-transform: uppercase;
+
+/* grey */
+
+color: #575C63;
+}
+#Rectangle_107 {
+	/* Rectangle 107 */
+	width:218px; 
+	margin-top: -10px;
+
+/* wh */
+
+/*background: #FFFFFF; */
+border: 1px solid rgba(87, 92, 99, 0.5);
+box-sizing: border-box;
+border-radius: 0px 0px 5px 5px;
+}
+#Rectangle_107_1 {
+	/* Rectangle 107 */
+	width:218px; 
+	margin-top: -10px;
+padding-left: 459px;
+/* wh */
+
+/*background: #FFFFFF; */
+border: 1px solid rgba(87, 92, 99, 0.5);
+box-sizing: border-box;
+border-radius: 0px 0px 5px 5px;
+}
+
+.card-columns {
+	@include media-breakpoint-only(lg) {
+	  column-count: 4;
+	}
+	@include media-breakpoint-only(xl) {
+	  column-count: 5;
+	}
+  }
+
+#korz2 {
+	
+	/* bl */
+	width: 47px;
+	height: 47px;
+	margin-left: 150px;
+	background: #AFC0D7;
+	box-shadow: 0px 0px 4px rgba(174, 174, 174, 0.25);
+	border-radius: 50px;
+	}
+#kk2 {
+	width: 30px;
+height: 30px;
+margin-left: 3px;
+margin-top: 10px;
+}
+#Group_129 {
+	width: 115px;
+height: 25px;
+margin-left: -16px;
+margin-top: 225px;
+background: #AFC0D7;
+border-radius: 0px 5px 5px 0px;
+}
+#Group_129_1 {
+	font-family: Lato;
+	margin-left: 30px;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 125%;
+/* or 17px */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+/* wh */
+
+color: #FFFFFF;
+}
+#Group_129_2 {
+	width: 115px;
+	height: 25px;
+margin-left: -16px;
+margin-top: 5px;
+background: #27AE60;
+border-radius: 0px 5px 5px 0px;
+}
+#Group_129_3 {
+	font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 125%;
+/* or 17px */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+/* wh */
+
+color: #FFFFFF;
+}
+#img10 {
+	width: 43px; 
+	height: 43px; 
+	margin-left:-220px;
+	margin-top: 30px;
+}
+#name {
+	margin-left: 10px;
+	margin-top: -50px;
+	font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: justify;
+letter-spacing: 0.04em;
+
+/* bl */
+
+color: #1F2122;
+}
+#i1 {
+	border: 1px solid rgba(87, 92, 99, 0.4);
+	box-sizing: border-box;
+	border-radius: 5px;
+	left: 0;
+	}
+
+/*страница 1.2.5 Личный кабинет/Мои курсы*/
+
+#navbar_myKurs {
+/* Lato 18 */
+
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+display: flex;
+align-items: center;
+
+/* grey */
+
+color: #575C63;
+opacity: 0.5;
+}
+/*Личный кабинет/Мои курсы*/
+#p1 {
+
+	width: 432px;
+height: 8px;
+left: 180px;
+margin-top: 50px;
+
+/* Lato 14 */
+
+font-family: Lato;
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 125%;
+/* or 17px */
+
+display: flex;
+align-items: center;
+
+/* grey */
+
+color: #575C63;
+}
+/*Уровень «НОВИЧОК»*/
+#p2 {
+	width: 454px;
+height: 31px;
+margin-top: 60px;
+
+/* mont 26 */
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 26px;
+line-height: 32px;
+display: flex;
+align-items: center;
+
+/* grey */
+
+color: #575C63;
+}
+/*ПОВЫСИТЬ УРОВЕНЬ*/
+#p3 {
+	width: 173px;
+height: 17px;
+margin-top: 30px;
+margin-bottom: 100px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+/* grey */
+
+color: #575C63;
+}
+/*изучаю*/
+#izuch {
+	width: 161.17px;
+height: 51.74px;
+margin-left: -30px;
+
+
+/* Green 2 */
+
+background: #27AE60;
+}
+#izuch1 {
+	width: 106px;
+height: 21px;
+margin-left: 45px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: uppercase;
+
+/* wh */
+
+color: #FFFFFF;
+}
+/*бизн гальвн пл*/
+#bizn {
+	margin-top: 20px;
+	font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+/* bl */
+
+color: #1F2122;
+}
+#bizn1 {
+	width: 448px;
+height: 108px;
+left: 752px;
+top: 684px;
+
+/* Lato 14 */
+
+font-family: Lato;
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 125%;
+/* or 17px */
+
+display: flex;
+align-items: center;
+
+/* bl */
+
+color: #1F2122;
+}
+
+#bizn2 {
+	margin-top: 150px;
+	font-family: Lato;
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 125%;
+/* or 17px */
+
+display: flex;
+align-items: center;
+
+/* bl */
+
+color: #1F2122;
+}
+#lvl {
+	
+/* mont 26 */
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 26px;
+line-height: 32px;
+display: flex;
+align-items: center;
+
+/* grey */
+
+color: #575C63;
+opacity: 0.5;
+}
+#novich {
+margin-left: 100px;
+height: 313px;
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+
+/* llblue */
+
+color: #F0F1F3;
+}
+
+#galvPlat {
+	margin-top: 40px;
+	font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 26px;
+line-height: 32px;
+display: flex;
+align-items: center;
+
+/* bl */
+
+color: #1F2122;
+}
+
+/*подчеркивание тек вкладки*/
+.topnav {
+    overflow: hidden;
+}
+.topnav a {
+    display: block;
+    color: #575C63;
+    text-align: center;
+   
+    text-decoration: none;
+    border-bottom: 3px solid transparent;
+}
+
+.topnav a:hover {
+    border-bottom: 3px solid #575C63;
+}
+
+.topnav a.active {
+	display:inline-block;
+	border-bottom: 3px solid #575C63;
+	
+}
+
+/*вкладки*/
+/* Style the tab */
+.tab {
+    overflow: hidden;
+	border-top: 1px solid #ccc;
+	border-right: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+	
+}
+
+/* Style the buttons inside the tab */
+.tab a {
+	margin-right:50px;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+	margin-top: 14px; 
+	margin-bottom: 16px;
+    transition: 0.3s;
+    font-size: 17px;
+}
+
+/* Change background color of buttons on hover */
+.tab a:hover {
+	border-bottom: 3px solid #575C63;
+}
+
+/* Create an active/current tablink class */
+.tab a.active {
+	
+	display:inline-block;
+	border-bottom: 3px solid #575C63;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+	border-top: 1px solid #ccc;
+	border-right: 1px solid #ccc;
+    border-top: none;
+}
+
+#tab1 {
+	margin-top: 100px;
+	font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+}
+
+#tab2 {
+	margin-top: 50px;
+	margin-bottom: 5px;
+	font-family: Lato;
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 125%;
+/* or 17px */
+
+
+color: #000000;
+}
+/*шкала прогресс */
+#myProgress {
+	width: 100%;
+	border-radius: 5px 0px 0px 5px;
+	background: #F0F1F3;
+}
+#myBar {
+    width: 78%;
+    height: 30px;
+	background-color: green;
+	
+}
+/*шкала прогресс */
+#myProgress2 {
+	width: 100%;
+	border-radius: 5px 0px 0px 5px;
+	background: #F0F1F3;
+}
+#myBar2 {
+    width: 38%;
+    height: 30px;
+	background-color: green;
+	
+}
+
+#novich_2 {
+	margin-left: 50%;
+	margin-top: 20%;
+	margin-bottom: -21.5%;
+	display: flex;
+	align-items: center;
+
+	}
+
+#o_proect {
+	font-family: Lato;
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 125%;
+/* or 17px */
+
+display: flex;
+align-items: center;
+
+/* bl */
+
+color: #1F2122;
+}
+#ktom {
+	font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 34px;
+line-height: 41px;
+
+color: #000000;
+}
+#opis {
+	font-family: Lato;
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 125%;
+/* or 17px */
+
+
+color: #000000;
+}
+#zag {
+	font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 26px;
+line-height: 32px;
+
+/* grey */
+
+color: #575C63;
+}
+
+#zag1 {
+	font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+display: flex;
+align-items: center;
+
+/* grey */
+
+color: #575C63;
+}
