@@ -33,7 +33,7 @@
   </div>
   <br>
   <div>
-	  <p style="color: #F0F1F3; opacity: 0.5; font-size: 18px; line-height: 25px; text-align: center">&copy; 2020 "Союз мастеров гальванистов"</p>
+	  <p style="color: #F0F1F3; opacity: 0.5; font-size: 18px; line-height: 25px; text-align: center">&copy; 2020 "**Союз мастеров гальванистов"</p>
 	  <br><br>
   </div>
   </div>
